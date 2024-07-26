@@ -2,7 +2,7 @@ cmake_minimum_required(VERSION 3.5)
 set(CMAKE_CXX_STANDARD 17)
 set(CMAKE_CXX_STANDARD_REQUIRED ON)
 
-project(c_uart_interface_example CXX)
+project(uart_mavlink_interface CXX)
 
 set(SOURCES
     autopilot_interface.cpp
